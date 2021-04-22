@@ -1,10 +1,12 @@
-package com.example.familytracker;
+package com.example.familytracker.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class AddFriend extends AppCompatActivity {
+import com.example.familytracker.R;
+
+public class AddFriendActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

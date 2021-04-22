@@ -1,4 +1,4 @@
-package com.example.familytracker;
+package com.example.familytracker.activity;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.view.MenuItem;
 import android.widget.FrameLayout;
 
+import com.example.familytracker.R;
 import com.example.familytracker.fragment.ChatFragment;
 import com.example.familytracker.fragment.ExploreFragment;
 import com.example.familytracker.fragment.FriendsFragment;
