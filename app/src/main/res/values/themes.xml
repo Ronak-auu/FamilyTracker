@@ -16,4 +16,8 @@
     <style name="LoginTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
         <item name="boxStrokeColor">@android:color/transparent</item>
     </style>
+    <style name="myBottomNavigationStyle">
+        <item name="itemIconTint">@drawable/bottom_navigation_colors</item>
+        <item name="itemTextColor">@drawable/bottom_navigation_colors</item>
+    </style>
 </resources>
